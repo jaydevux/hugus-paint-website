@@ -1,0 +1,882 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<portfolio>
+
+	<categories>
+		<category id="concrete_stain">Concrete Stain</category>
+		<category id="banks">Banks</category>
+		<category id="drywall">Drywall</category>
+		<category id="commercial_building">Commercial Building</category>
+		<category id="stucco">stucco</category>
+		<category id="shopping_center">shopping center</category>
+		<category id="hand_rails">Hand Rails</category>
+		<category id="custom_houses">custom houses</category>
+		<category id="farm_houses">farm houses</category>
+		
+
+
+	</categories>
+
+	<items>
+		
+
+		<!-- Concrete Stain -->
+		<item>
+			<thumbnail>our_work/concrete_stain/thumb/1.jpg</thumbnail>
+			<preview>our_work/concrete_stain/1.jpg</preview>
+			<category>concrete_stain</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/concrete_stain/thumb/2.jpg</thumbnail>
+			<preview>our_work/concrete_stain/2.jpg</preview>
+			<category>concrete_stain</category>
+			
+		</item>
+		
+		<item>
+			<thumbnail>our_work/concrete_stain/thumb/3.jpg</thumbnail>
+			<preview>our_work/concrete_stain/3.jpg</preview>
+			<category>concrete_stain</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/concrete_stain/thumb/4.jpg</thumbnail>
+			<preview>our_work/concrete_stain/4.jpg</preview>
+			<category>concrete_stain</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/concrete_stain/thumb/5.jpg</thumbnail>
+			<preview>our_work/concrete_stain/5.jpg</preview>
+			<category>concrete_stain</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/concrete_stain/thumb/6.jpg</thumbnail>
+			<preview>our_work/concrete_stain/6.jpg</preview>
+			<category>concrete_stain</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/concrete_stain/thumb/7.jpg</thumbnail>
+			<preview>our_work/concrete_stain/7.jpg</preview>
+			<category>concrete_stain</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/concrete_stain/thumb/8.jpg</thumbnail>
+			<preview>our_work/concrete_stain/8.jpg</preview>
+			<category>concrete_stain</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/concrete_stain/thumb/9.jpg</thumbnail>
+			<preview>our_work/concrete_stain/9.jpg</preview>
+			<category>concrete_stain</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/concrete_stain/thumb/10.jpg</thumbnail>
+			<preview>our_work/concrete_stain/10.jpg</preview>
+			<category>concrete_stain</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/concrete_stain/thumb/11.jpg</thumbnail>
+			<preview>our_work/concrete_stain/11.jpg</preview>
+			<category>concrete_stain</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/concrete_stain/thumb/12.jpg</thumbnail>
+			<preview>our_work/concrete_stain/12.jpg</preview>
+			<category>concrete_stain</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/concrete_stain/thumb/13.jpg</thumbnail>
+			<preview>our_work/concrete_stain/13.jpg</preview>
+			<category>concrete_stain</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/concrete_stain/thumb/14.jpg</thumbnail>
+			<preview>our_work/concrete_stain/14.jpg</preview>
+			<category>concrete_stain</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/concrete_stain/thumb/15.jpg</thumbnail>
+			<preview>our_work/concrete_stain/15.jpg</preview>
+			<category>concrete_stain</category>
+			
+		</item>
+
+		<!-- Banks -->
+
+		<item>
+			<thumbnail>our_work/banks/thumb/1.jpg</thumbnail>
+			<preview>our_work/banks/1.jpg</preview>
+			<category>banks</category>
+			
+		</item>	
+
+		<item>
+			<thumbnail>our_work/banks/thumb/2.jpg</thumbnail>
+			<preview>our_work/banks/2.jpg</preview>
+			<category>banks</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/banks/thumb/3.jpg</thumbnail>
+			<preview>our_work/banks/3.jpg</preview>
+			<category>banks</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/banks/thumb/4.jpg</thumbnail>
+			<preview>our_work/banks/4.jpg</preview>
+			<category>banks</category>
+			
+		</item>
+		<item>
+			<thumbnail>our_work/banks/thumb/5.jpg</thumbnail>
+			<preview>our_work/banks/5.jpg</preview>
+			<category>banks</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/banks/thumb/6.jpg</thumbnail>
+			<preview>our_work/banks/6.jpg</preview>
+			<category>banks</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/banks/thumb/7.jpg</thumbnail>
+			<preview>our_work/banks/7.jpg</preview>
+			<category>banks</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/banks/thumb/8.jpg</thumbnail>
+			<preview>our_work/banks/8.jpg</preview>
+			<category>banks</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/banks/thumb/9.jpg</thumbnail>
+			<preview>our_work/banks/9.jpg</preview>
+			<category>banks</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/banks/thumb/10.jpg</thumbnail>
+			<preview>our_work/banks/10.jpg</preview>
+			<category>banks</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/banks/thumb/11.jpg</thumbnail>
+			<preview>our_work/banks/11.jpg</preview>
+			<category>banks</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/banks/thumb/12.jpg</thumbnail>
+			<preview>our_work/banks/12.jpg</preview>
+			<category>banks</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/banks/thumb/13.jpg</thumbnail>
+			<preview>our_work/banks/13.jpg</preview>
+			<category>banks</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/banks/thumb/14.jpg</thumbnail>
+			<preview>our_work/banks/14.jpg</preview>
+			<category>banks</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/banks/thumb/15.jpg</thumbnail>
+			<preview>our_work/banks/15.jpg</preview>
+			<category>banks</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/banks/thumb/16.jpg</thumbnail>
+			<preview>our_work/banks/16.jpg</preview>
+			<category>banks</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/banks/thumb/17.jpg</thumbnail>
+			<preview>our_work/banks/17.jpg</preview>
+			<category>banks</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/banks/thumb/18.jpg</thumbnail>
+			<preview>our_work/banks/18.jpg</preview>
+			<category>banks</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/banks/thumb/19.jpg</thumbnail>
+			<preview>our_work/banks/19.jpg</preview>
+			<category>banks</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/banks/thumb/20.jpg</thumbnail>
+			<preview>our_work/banks/20.jpg</preview>
+			<category>banks</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/banks/thumb/21.jpg</thumbnail>
+			<preview>our_work/banks/21.jpg</preview>
+			<category>banks</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/banks/thumb/22.jpg</thumbnail>
+			<preview>our_work/banks/22.jpg</preview>
+			<category>banks</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/banks/thumb/23.jpg</thumbnail>
+			<preview>our_work/banks/23.jpg</preview>
+			<category>banks</category>
+			
+		</item>
+
+		<!-- drywall -->
+
+		<item>
+			<thumbnail>our_work/drywall/thumb/1.jpg</thumbnail>
+			<preview>our_work/drywall/1.jpg</preview>
+			<category>drywall</category>
+			
+		</item>	
+
+		<item>
+			<thumbnail>our_work/drywall/thumb/2.jpg</thumbnail>
+			<preview>our_work/drywall/2.jpg</preview>
+			<category>drywall</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/drywall/thumb/3.jpg</thumbnail>
+			<preview>our_work/drywall/3.jpg</preview>
+			<category>drywall</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/drywall/thumb/4.jpg</thumbnail>
+			<preview>our_work/drywall/4.jpg</preview>
+			<category>drywall</category>
+			
+		</item>
+		<item>
+			<thumbnail>our_work/drywall/thumb/5.jpg</thumbnail>
+			<preview>our_work/drywall/5.jpg</preview>
+			<category>drywall</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/drywall/thumb/6.jpg</thumbnail>
+			<preview>our_work/drywall/6.jpg</preview>
+			<category>drywall</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/drywall/thumb/7.jpg</thumbnail>
+			<preview>our_work/drywall/7.jpg</preview>
+			<category>drywall</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/drywall/thumb/8.jpg</thumbnail>
+			<preview>our_work/drywall/8.jpg</preview>
+			<category>drywall</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/drywall/thumb/9.jpg</thumbnail>
+			<preview>our_work/drywall/9.jpg</preview>
+			<category>drywall</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/drywall/thumb/10.jpg</thumbnail>
+			<preview>our_work/drywall/10.jpg</preview>
+			<category>drywall</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/drywall/thumb/11.jpg</thumbnail>
+			<preview>our_work/drywall/11.jpg</preview>
+			<category>drywall</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/drywall/thumb/12.jpg</thumbnail>
+			<preview>our_work/drywall/12.jpg</preview>
+			<category>drywall</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/drywall/thumb/13.jpg</thumbnail>
+			<preview>our_work/drywall/13.jpg</preview>
+			<category>drywall</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/drywall/thumb/14.jpg</thumbnail>
+			<preview>our_work/drywall/14.jpg</preview>
+			<category>drywall</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/drywall/thumb/15.jpg</thumbnail>
+			<preview>our_work/drywall/15.jpg</preview>
+			<category>drywall</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/drywall/thumb/16.jpg</thumbnail>
+			<preview>our_work/drywall/16.jpg</preview>
+			<category>drywall</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/drywall/thumb/17.jpg</thumbnail>
+			<preview>our_work/drywall/17.jpg</preview>
+			<category>drywall</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/drywall/thumb/18.jpg</thumbnail>
+			<preview>our_work/bdrywall/18.jpg</preview>
+			<category>drywall</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/drywall/thumb/19.jpg</thumbnail>
+			<preview>our_work/drywall/19.jpg</preview>
+			<category>drywall</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/drywall/thumb/20.jpg</thumbnail>
+			<preview>our_work/drywall/20.jpg</preview>
+			<category>drywall</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/drywall/thumb/21.jpg</thumbnail>
+			<preview>our_work/drywall/21.jpg</preview>
+			<category>drywall</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/drywall/thumb/22.jpg</thumbnail>
+			<preview>our_work/drywall/22.jpg</preview>
+			<category>drywall</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/drywall/thumb/23.jpg</thumbnail>
+			<preview>our_work/drywall/23.jpg</preview>
+			<category>drywall</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/drywall/thumb/24.jpg</thumbnail>
+			<preview>our_work/drywall/24.jpg</preview>
+			<category>drywall</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/drywall/thumb/25.jpg</thumbnail>
+			<preview>our_work/drywall/25.jpg</preview>
+			<category>drywall</category>
+			
+		</item>
+
+		<!-- Commercial Building -->
+
+		<item>
+			<thumbnail>our_work/commercial_building/thumb/1.jpg</thumbnail>
+			<preview>our_work/commercial_building/1.jpg</preview>
+			<category>commercial_building</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/commercial_building/thumb/2.jpg</thumbnail>
+			<preview>our_work/commercial_building/2.jpg</preview>
+			<category>commercial_building</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/commercial_building/thumb/3.jpg</thumbnail>
+			<preview>our_work/commercial_building/3.jpg</preview>
+			<category>commercial_building</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/commercial_building/thumb/4.jpg</thumbnail>
+			<preview>our_work/commercial_building/4.jpg</preview>
+			<category>commercial_building</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/commercial_building/thumb/5.jpg</thumbnail>
+			<preview>our_work/commercial_building/5.jpg</preview>
+			<category>commercial_building</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/commercial_building/thumb/6.jpg</thumbnail>
+			<preview>our_work/commercial_building/6.jpg</preview>
+			<category>commercial_building</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/commercial_building/thumb/7.jpg</thumbnail>
+			<preview>our_work/commercial_building/7.jpg</preview>
+			<category>commercial_building</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/commercial_building/thumb/8.jpg</thumbnail>
+			<preview>our_work/commercial_building/8.jpg</preview>
+			<category>commercial_building</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/commercial_building/thumb/9.jpg</thumbnail>
+			<preview>our_work/commercial_building/9.jpg</preview>
+			<category>commercial_building</category>
+			
+		</item>
+		<item>
+			<thumbnail>our_work/commercial_building/thumb/10.jpg</thumbnail>
+			<preview>our_work/commercial_buliding/10.jpg</preview>
+			<category>commercial_building</category>
+			
+		</item>
+
+
+		<!-- Stucco -->
+
+		<item>
+			<thumbnail>our_work/stucco/thumb/1.jpg</thumbnail>
+			<preview>our_work/stucco/1.jpg</preview>
+			<category>stucco</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/stucco/thumb/2.jpg</thumbnail>
+			<preview>our_work/stucco/2.jpg</preview>
+			<category>stucco</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/stucco/thumb/3.jpg</thumbnail>
+			<preview>our_work/stucco/3.jpg</preview>
+			<category>stucco</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/stucco/thumb/4.jpg</thumbnail>
+			<preview>our_work/stucco/4.jpg</preview>
+			<category>stucco</category>
+			
+		</item>
+
+		<!-- shopping center -->
+
+		<item>
+			<thumbnail>our_work/shopping_center/thumb/1.jpg</thumbnail>
+			<preview>our_work/shopping_center/1.jpg</preview>
+			<category>shopping_center</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/shopping_center/thumb/2.jpg</thumbnail>
+			<preview>our_work/shopping_center/2.jpg</preview>
+			<category>shopping_center</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/shopping_center/thumb/3.jpg</thumbnail>
+			<preview>our_work/shopping_center/3.jpg</preview>
+			<category>shopping_center</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/shopping_center/thumb/4.jpg</thumbnail>
+			<preview>our_work/shopping_center/4.jpg</preview>
+			<category>shopping_center</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/shopping_center/thumb/5.jpg</thumbnail>
+			<preview>our_work/shopping_center/5.jpg</preview>
+			<category>shopping_center</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/shopping_center/thumb/6.jpg</thumbnail>
+			<preview>our_work/shopping_center/6.jpg</preview>
+			<category>shopping_center</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/shopping_center/thumb/7.jpg</thumbnail>
+			<preview>our_work/shopping_center/7.jpg</preview>
+			<category>shopping_center</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/shopping_center/thumb/8.jpg</thumbnail>
+			<preview>our_work/shopping_center/8.jpg</preview>
+			<category>shopping_center</category>
+			
+		</item>
+
+		<!-- hand rails -->
+
+		<item>
+			<thumbnail>our_work/hand_rails/thumb/1.jpg</thumbnail>
+			<preview>our_work/hand_rails/1.jpg</preview>
+			<category>hand_rails</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/hand_rails/thumb/2.jpg</thumbnail>
+			<preview>our_work/hand_rails/2.jpg</preview>
+			<category>hand_rails</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/hand_rails/thumb/3.jpg</thumbnail>
+			<preview>our_work/hand_rails/3.jpg</preview>
+			<category>hand_rails</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/hand_rails/thumb/4.jpg</thumbnail>
+			<preview>our_work/hand_rails/4.jpg</preview>
+			<category>hand_rails</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/hand_rails/thumb/5.jpg</thumbnail>
+			<preview>our_work/hand_rails/5.jpg</preview>
+			<category>hand_rails</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/hand_rails/thumb/6.jpg</thumbnail>
+			<preview>our_work/hand_rails/6.jpg</preview>
+			<category>hand_rails</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/hand_rails/thumb/7.jpg</thumbnail>
+			<preview>our_work/hand_rails/7.jpg</preview>
+			<category>hand_rails</category>
+			
+		</item>
+
+		<!-- custom houses -->
+
+		<item>
+			<thumbnail>our_work/custom_houses/thumb/1.jpg</thumbnail>
+			<preview>our_work/custom_houses/1.jpg</preview>
+			<category>custom_houses</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/custom_houses/thumb/2.jpg</thumbnail>
+			<preview>our_work/custom_houses/2.jpg</preview>
+			<category>custom_houses</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/custom_houses/thumb/3.jpg</thumbnail>
+			<preview>our_work/custom_houses/3.jpg</preview>
+			<category>custom_houses</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/custom_houses/thumb/4.jpg</thumbnail>
+			<preview>our_work/custom_houses/4.jpg</preview>
+			<category>custom_houses</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/custom_houses/thumb/5.jpg</thumbnail>
+			<preview>our_work/custom_houses/5.jpg</preview>
+			<category>custom_houses</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/custom_houses/thumb/6.jpg</thumbnail>
+			<preview>our_work/custom_houses/6.jpg</preview>
+			<category>custom_houses</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/custom_houses/thumb/7.jpg</thumbnail>
+			<preview>our_work/custom_houses/7.jpg</preview>
+			<category>custom_houses</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/custom_houses/thumb/8.jpg</thumbnail>
+			<preview>our_work/custom_houses/8.jpg</preview>
+			<category>custom_houses</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/custom_houses/thumb/9.jpg</thumbnail>
+			<preview>our_work/custom_houses/9.jpg</preview>
+			<category>custom_houses</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/custom_houses/thumb/10.jpg</thumbnail>
+			<preview>our_work/custom_houses/10.jpg</preview>
+			<category>custom_houses</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/custom_houses/thumb/11.jpg</thumbnail>
+			<preview>our_work/custom_houses/11.jpg</preview>
+			<category>custom_houses</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/custom_houses/thumb/12.jpg</thumbnail>
+			<preview>our_work/custom_houses/12.jpg</preview>
+			<category>custom_houses</category>
+			
+		</item>
+
+
+		<item>
+			<thumbnail>our_work/custom_houses/thumb/13.jpg</thumbnail>
+			<preview>our_work/custom_houses/13.jpg</preview>
+			<category>custom_houses</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/custom_houses/thumb/14.jpg</thumbnail>
+			<preview>our_work/custom_houses/14.jpg</preview>
+			<category>custom_houses</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/custom_houses/thumb/15.jpg</thumbnail>
+			<preview>our_work/custom_houses/15.jpg</preview>
+			<category>custom_houses</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/custom_houses/thumb/16.jpg</thumbnail>
+			<preview>our_work/custom_houses/16.jpg</preview>
+			<category>custom_houses</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/custom_houses/thumb/17.jpg</thumbnail>
+			<preview>our_work/custom_houses/17.jpg</preview>
+			<category>custom_houses</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/custom_houses/thumb/18.jpg</thumbnail>
+			<preview>our_work/custom_houses/18.jpg</preview>
+			<category>custom_houses</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/custom_houses/thumb/19.jpg</thumbnail>
+			<preview>our_work/custom_houses/19.jpg</preview>
+			<category>custom_houses</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/custom_houses/thumb/20.jpg</thumbnail>
+			<preview>our_work/custom_houses/20.jpg</preview>
+			<category>custom_houses</category>
+			
+		</item>
+
+		<!-- farm houses -->
+
+		<item>
+			<thumbnail>our_work/farm_houses/thumb/1.jpg</thumbnail>
+			<preview>our_work/farm_houses/1.jpg</preview>
+			<category>farm_houses</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/farm_houses/thumb/2.jpg</thumbnail>
+			<preview>our_work/farm_houses/2.jpg</preview>
+			<category>farm_houses</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/farm_houses/thumb/3.jpg</thumbnail>
+			<preview>our_work/farm_houses/3.jpg</preview>
+			<category>farm_houses</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/farm_houses/thumb/4.jpg</thumbnail>
+			<preview>our_work/farm_houses/4.jpg</preview>
+			<category>farm_houses</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/farm_houses/thumb/5.jpg</thumbnail>
+			<preview>our_work/farm_houses/5.jpg</preview>
+			<category>farm_houses</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/farm_houses/thumb/6.jpg</thumbnail>
+			<preview>our_work/farm_houses/6.jpg</preview>
+			<category>farm_houses</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/farm_houses/thumb/7.jpg</thumbnail>
+			<preview>our_work/farm_houses/7.jpg</preview>
+			<category>farm_houses</category>
+			
+		</item>
+
+		<item>
+			<thumbnail>our_work/farm_houses/thumb/8.jpg</thumbnail>
+			<preview>our_work/farm_houses/8.jpg</preview>
+			<category>farm_houses</category>
+			
+		</item>
+
+
+
+	
+	</items>
+</portfolio>
