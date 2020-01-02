@@ -13,20 +13,6 @@
 	<meta name="SKYPE_TOOLBAR" content ="SKYPE_TOOLBAR_PARSER_COMPATIBLE"/>
 	<title>HuGus Inc. | Professional Painting - Drywall &amp; Stucco - New Construction &amp; Renovation - Interior &amp; Exterior - Commercial, Industrial &amp; Residential</title>
 
-	<script type="text/javascript" src="js/jquery-1.4.js"></script>  
-	<script type="text/javascript" src="js/jquery-easing.js"></script>  
-	<script type="text/javascript" src="js/jquery.colorbox-min.js"></script>  
-	<script type="text/javascript" src="js/portfolio-setter.js"></script>  
-<script type="text/javascript">
-  $(function(){
-		// init the portfolio functionality
-		
-		$('#portfolio_wavy').portfolioSetter({xmlSource:'portfolio.xml', wavyAnimation:true});
-		
-		
-  });
-</script>
-
 </head>
 <body>
 
@@ -196,6 +182,18 @@
 
 		</div> <!-- end centerContainer" -->
 	</div> <!-- end copyrightContainer -->
+
+	<script type="text/javascript" src="js/jquery-1.4.js"></script>  
+	<script type="text/javascript" src="js/jquery-easing.js"></script>  
+	<script type="text/javascript" src="js/jquery.colorbox-min.js"></script>  
+	<script type="text/javascript" src="js/portfolio-setter.js"></script>  
+	<script type="text/javascript">
+		$(function(){
+				// init the portfolio functionality
+				
+				$('#portfolio_wavy').portfolioSetter({xmlSource:'portfolio.xml', wavyAnimation:true});				
+		});
+	</script>
 
 
 
